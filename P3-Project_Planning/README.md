@@ -8,6 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 * ![Landing Page] (landing)
 * ![Critterpedia ] (critterMain)
 * ![Critterpedia Popup] (critterPopup)
