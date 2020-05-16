@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Landing Page](/images/landing.ttf)
-* ![Landing Page] (landing)
-* ![Critterpedia ] (critterMain)
-* ![Critterpedia Popup] (critterPopup)
-* ![Profile Page] (profile)
+![Landing Page](/images/landing.tif)
+![Critterpedia](/images/critterMain.tif)
+![Critterpedia Popup](/images/critterPopup.tif)
+![Profile Page](/images/profile.tif)
+
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
